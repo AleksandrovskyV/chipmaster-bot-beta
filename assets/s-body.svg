@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #121212;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 5.22px;
+      }
+    </style>
+  </defs>
+  <g id="SPT_MaskSimple">
+    <g id="Body">
+      <path id="BodyMask" class="cls-1" d="M0,0V175H175V0H0ZM87.5,141.23c-29.02,0-52.54-23.52-52.54-52.54s23.52-52.54,52.54-52.54,52.54,23.52,52.54,52.54-23.52,52.54-52.54,52.54Z"/>
+      <path id="Body-2" data-name="Body" class="cls-2" d="M140.04,88.69c0,29.02-23.52,52.54-52.54,52.54s-52.54-23.52-52.54-52.54,23.52-52.54,52.54-52.54,52.54,23.52,52.54,52.54"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ff9800;
+      }
+    </style>
+  </defs>
+  <g id="VLM_MaskSimple">
+    <g id="BodyBG">
+      <rect id="BodyBG-2" data-name="BodyBG" class="cls-2" x="15" y="15" width="145" height="145"/>
+      <path id="Canvas" class="cls-1" d="M0,0V175H175V0H0Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6e6e6;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #25a2ef;
+      }
+    </style>
+  </defs>
+  <g id="Eye">
+    <g id="Eye-2" data-name="Eye">
+      <circle class="cls-3" cx="63.88" cy="64.12" r="29.87"/>
+      <path class="cls-1" d="M63.88,42.25c12.08,0,21.88,9.79,21.88,21.88s-9.79,21.88-21.88,21.88-21.88-9.79-21.88-21.88,9.79-21.88,21.88-21.88m0-16c-20.88,0-37.88,16.99-37.88,37.88s16.99,37.88,37.88,37.88,37.88-16.99,37.88-37.88S84.76,26.25,63.88,26.25h0Z"/>
+    </g>
+    <rect id="Canvas" class="cls-2" width="128" height="128"/>
+  </g>
+</svg>

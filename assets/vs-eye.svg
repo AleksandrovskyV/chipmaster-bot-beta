@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="175" height="175" viewBox="0 0 175 175">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e86e1c;
+      }
+
+      .cls-2 {
+        fill: none;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #ff9800;
+      }
+    </style>
+  </defs>
+  <g id="VLM_MaskSimple">
+    <g id="Eye">
+      <path id="Head_Top" class="cls-3" d="M87.55,18c34.03,0,61.61,1.07,61.61,35.1s-27.59,61.61-61.61,61.61S25.94,87.13,25.94,53.1,53.53,18,87.55,18Z"/>
+      <g id="Eye_copy" data-name="Eye copy">
+        <ellipse class="cls-1" cx="87.39" cy="72.26" rx="7.18" ry="7.17" transform="translate(-.64 .78) rotate(-.51)"/>
+        <ellipse class="cls-1" cx="72.24" cy="94.48" rx="7.18" ry="7.17" transform="translate(-.84 .65) rotate(-.51)"/>
+        <ellipse class="cls-1" cx="102.21" cy="94.48" rx="7.18" ry="7.17" transform="translate(-.85 .93) rotate(-.52)"/>
+      </g>
+      <path id="Canvas" class="cls-2" d="M0,0V175H175V0H0Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="73.46" height="30.36" viewBox="0 0 73.46 30.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="SPT_MaskSimple">
+    <g id="Eye">
+      <path id="Eye_R" class="cls-1" d="M30.36,15.18c0,8.38-6.8,15.18-15.18,15.18S0,23.57,0,15.18,6.8,0,15.18,0s15.18,6.8,15.18,15.18"/>
+      <path id="Eye_L" class="cls-1" d="M73.46,15.18c0,8.38-6.8,15.18-15.18,15.18s-15.18-6.8-15.18-15.18S49.9,0,58.28,0s15.18,6.8,15.18,15.18"/>
+    </g>
+  </g>
+</svg>

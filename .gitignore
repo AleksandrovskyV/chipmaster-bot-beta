@@ -1,0 +1,18 @@
+# Виртуальная среда
+venv/
+
+# Python кеши
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# PyInstaller артефакты
+*.spec
+build/
+
+# Системные файлы
+.DS_Store
+
+# Сборочные батники
+chipmaster_bot.bat
